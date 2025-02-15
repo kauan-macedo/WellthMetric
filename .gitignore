@@ -39,6 +39,7 @@ main
 
 # Other
 main.c:Zone.Identifier
+.vscode
 
 # Debug files
 *.dSYM/
